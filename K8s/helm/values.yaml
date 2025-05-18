@@ -8,7 +8,7 @@ image:
 # EUM configuration
 # Provide your key and set the endpoint
 eum:
-  key: mdsQ5s1GT1W2aQseo01eOg
+  key: kj4CZlEbTz-6YVGJCnU-HA
   url: https://eum-orange-saas.instana.io
   #url: https://eum-us-west-2.instana.io
 
